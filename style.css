@@ -2,6 +2,7 @@ body {
     color:rgb(41, 29, 51);
     background:  rgb(0, 0, 0); 
     margin: 0px;
+    font-family: "Roboto Mono", monospace;
 }
 
 header{
@@ -10,7 +11,6 @@ header{
     font-size: 32px;
     color: rgb(204, 154, 255); 
 }
-
 
 section { 
     background: rgb(211, 170, 250);
@@ -22,4 +22,12 @@ section {
  
 div{
     margin-right: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
 }
